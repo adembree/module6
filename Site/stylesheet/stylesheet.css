@@ -1,28 +1,33 @@
+
+
 img	{ 
-    max-width: 100%;
+    max-width: 50%;
     float: left; 
 }
 
-video {
-    max-width: 100%;
-    max-height: 100%;
+video { 
+    width: 100%; 
+    min-width: 300px;
     float: right;
-
-}
+    }
+         
 
 header {
     grid-area: header;
     background-color: gainsboro;
+    margin: auto auto;
 }
 
 nav {
     grid-area: nav;
     background-color: pink;
+    margin: auto auto;
 }
 
 main {
     grid-area: main;
     background-color: lavenderblush;
+    margin: auto auto;
 }
 
 aside {
