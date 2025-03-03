@@ -1,1 +1,1 @@
-# Module6 - Information Structures for the Web
+# module6
