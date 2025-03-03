@@ -41,6 +41,7 @@ aside {
 footer {
     grid-area: footer;
     background-color: gainsboro;
+    text-align: center;
 }
 
 .grid-container {
