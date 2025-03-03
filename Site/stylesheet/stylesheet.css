@@ -18,13 +18,13 @@ video {
 header {
     grid-area: header;
     background-color: gainsboro;
-    margin: auto auto;
+
 }
 
 nav {
     grid-area: nav;
     background-color: pink;
-    margin: auto auto;
+
 }
 
 main {
