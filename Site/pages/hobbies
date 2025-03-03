@@ -16,7 +16,8 @@
 
         </header>
 
-        <nav><h2>Navigation:</h2>
+        <nav>
+            <h2>Navigation:</h2>
             <ul>
                 <li><a href="../index.html">Home</a></li>
             </ul>

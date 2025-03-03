@@ -6,32 +6,42 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="../stylesheet/stylesheet.css">
     <meta name="author" content="Abby Embree">
-    <meta name="description" content="XXXXXXXXXXXXX">
-    <meta name="keywords" content="XXXXX, XXXXX,XXXXX">
+    <meta name="description" content="Details basic information about Birdie, the author's cat">
+    <meta name="keywords" content="cat, pet cat, pet biography">
 </head>
 
 <body>
     <div class="grid-container">
         <header>
-
+            <h1>About Birdie</h1>
+            <h2>My Cat</h2>
         </header>
 
-        <nav><h2>Navigation:</h2>
+        <nav>
+            <h2>Navigation:</h2>
             <ul>
                 <li><a href="../index.html">Home</a></li>
             </ul>
         </nav>
 
         <main>
-
+            <h2>The Basics About Birdie</h2>
+            <p> Birdie has been my pet cat since June of last year! I got her as an early birthday present/graduation gift for myself since, prior to graduation, I did not have the space or means to care for a pet. I actually found her first via petfinder and, because she looked very similar to her sisters at the shelter, I wasn't sure the cat I got was the one I found on petfinder until I formally adopted her.</p>
+            <p>Birdie is a very playful and energetic cat, getting the zoomies when I come home from work every day. She also loves to climb high places so she's a big fan of her very tall cat tower. Birdie is also a cay with a strict routine, neeting to have her food at very specific times of day. She also has the same morning and bedtime routine of laying with me for fifteen minutes before either going to play or going to sleep.</p>
         </main>
 
         <aside>
-            
+            <h2>Fun Facts About Birdie</h2>
+            <ul>
+                <li>Her Birthday is February 16th</li>
+                <li>She has three littermates: a brother and two sisters</li>
+                <li>She likes to dunk her cat toys in the toilet which has gotten her banned from bathrooms</li>
+                <li>Her name is short for Songbird and she sometimes has the nickname Bird</li>
+            </ul>
         </aside>
 
         <footer>
-
+            <h2>Thanks to the Perry Animal Shelter for all the information on Birdie before I adopted her!</h2>
         </footer>
 
     </div>
