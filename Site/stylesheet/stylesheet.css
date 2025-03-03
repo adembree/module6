@@ -50,11 +50,7 @@ ul li {
 }
 
 
-/*FIRST BREAK POINT === tablet */
-@media only screen and (max-width : 900px) {
-    body {
-        background: blue;
-    }
+@media only screen and (max-width : 900px) {}
 
     .grid-container {
         display: grid;
@@ -73,12 +69,8 @@ ul li {
 
 }
 
-/*SECOND BREAK POINT === mobile */
-@media only screen and (max-width : 600px) {
 
-    body {
-        background: fuchsia;
-    }
+@media only screen and (max-width : 600px) {
 
     .grid-container {
         display: grid;
