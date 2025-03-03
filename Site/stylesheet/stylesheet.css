@@ -18,19 +18,20 @@ video {
 header {
     grid-area: header;
     background-color: gainsboro;
+    text-align: center;
 
 }
 
 nav {
     grid-area: nav;
     background-color: pink;
+    text-align: center;
 
 }
 
 main {
     grid-area: main;
     background-color: lavenderblush;
-    margin: auto auto;
 }
 
 aside {
