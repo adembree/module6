@@ -5,13 +5,14 @@ img	{
 
 video {
     max-width: 100%;
+    max-height: 100%;
     float: right;
 
 }
 
 header {
     grid-area: header;
-    background-color: rgb(77, 142, 89);
+    background-color: gainsboro;
 }
 
 nav {
@@ -31,7 +32,7 @@ aside {
 
 footer {
     grid-area: footer;
-    background-color: rgb(77, 142, 89);
+    background-color: gainsboro;
 }
 
 .grid-container {
